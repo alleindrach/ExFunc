@@ -1,0 +1,6 @@
+*.db
+*.opendb
+*.obj
+Debug/*
+Release/*
+ipch/*
